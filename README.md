@@ -1,8 +1,8 @@
 # 🛠️ Relatório Técnico – CSfiltros
 
-📅 **Data do serviço:** [DD/MM/AAAA]  
+📅 **Data do serviço:** 03/05/2025  
 🔧 **Cliente:** CSfiltros  
-👨‍💻 **Responsável técnico:** [Seu nome ou nome da empresa]
+👨‍💻 **Responsável técnico:** Pedro Michael
 
 ---
 
@@ -15,7 +15,7 @@ Este relatório documenta os serviços de atualização, otimização e reforço
 ## ✅ Tarefas Executadas
 
 ### 🔄 Atualização do Ambiente PHP
-- Atualização da versão do PHP de `x.x` para `y.y` (compatível com o CMS e plugins utilizados)
+- Atualização da versão do PHP para a mais recente (compatível com o CMS e plugins utilizados)
 - Ajuste de configurações no `php.ini` e `.htaccess` para melhor desempenho e compatibilidade:
   - `memory_limit` aumentado para 512M
   - `max_execution_time` ajustado para 300s
