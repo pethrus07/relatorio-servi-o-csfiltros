@@ -1,28 +1,31 @@
 # Arquitetura
 
-Diagramas gerados a partir do Sinapse (o segundo cérebro do Pedro). Cada projeto tem três vistas,
-cada uma numa notação padrão:
+Três vistas do sistema, cada uma numa notação padrão.
 
-1. **Quem usa e para quê**: UML, diagrama de casos de uso.
-2. **O processo principal**: BPMN 2.0, com raias por quem executa.
-3. **A arquitetura**: modelo C4, nível 2 (containers).
+| Vista | Notação | Responde |
+|---|---|---|
+| 1. Casos de uso | UML | Quem usa e para quê |
+| 2. Processo | BPMN 2.0 | Como o trabalho anda, com uma raia para cada quem executa |
+| 3. Arquitetura | C4, nível 2 | De que partes o sistema é feito e com quem conversa |
 
 ## CSfiltros · relatório do serviço no site
 
 Relatório técnico do serviço feito no site WordPress da CSfiltros em maio de 2025: atualização do PHP, ganho de desempenho e reforço de segurança. O desenho mostra o serviço prestado e o site em que ele foi aplicado.
 
-### Quem usa e para quê (UML)
+### 1. Quem usa e para quê
 
-![Casos de uso · CSfiltros · relatório do serviço no site](./relatorio-servi-o-csfiltros-1-casos-de-uso.svg)
+![Casos de uso de CSfiltros](./csfiltros-1-casos-de-uso.svg)
 
-### Do pedido ao relatório entregue (BPMN 2.0)
+### 2. Do pedido ao relatório entregue
 
-![Processo · CSfiltros · relatório do serviço no site](./relatorio-servi-o-csfiltros-2-processo.svg)
+![Processo de CSfiltros](./csfiltros-2-processo.svg)
 
-### Arquitetura (C4, containers)
+### 3. Arquitetura
 
-![Arquitetura · CSfiltros · relatório do serviço no site](./relatorio-servi-o-csfiltros-3-arquitetura.svg)
+![Arquitetura de CSfiltros](./csfiltros-3-arquitetura.svg)
 
-Editável: [`relatorio-servi-o-csfiltros.excalidraw`](./relatorio-servi-o-csfiltros.excalidraw), abre em [excalidraw.com](https://excalidraw.com) ou no VS Code com a extensão Excalidraw.
+Para editar: [csfiltros.excalidraw](./csfiltros.excalidraw), que abre em [excalidraw.com](https://excalidraw.com) ou na extensão Excalidraw do VS Code.
 
-A fonte destes arquivos é o vault do Sinapse (`09-DESENHOS/`); alterações feitas aqui são sobrescritas na próxima publicação.
+## De onde vêm
+
+Os diagramas são gerados a partir do Sinapse, o vault onde o Pedro organiza notas e projetos. Mudança feita direto aqui some na próxima publicação: o lugar de mudar é a especificação no Sinapse.
