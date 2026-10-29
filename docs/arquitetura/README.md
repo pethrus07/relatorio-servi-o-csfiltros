@@ -9,9 +9,19 @@ cada uma numa notação padrão:
 
 ## CSfiltros · relatório do serviço no site
 
-Não é software: é o relatório técnico (um README) do serviço feito no site PHP da CSfiltros em maio de 2025: atualização do PHP, ganho de desempenho e reforço de segurança. O desenho mostra o serviço prestado e o que o repositório guarda.
+Relatório técnico do serviço feito no site WordPress da CSfiltros em maio de 2025: atualização do PHP, ganho de desempenho e reforço de segurança. O desenho mostra o serviço prestado e o site em que ele foi aplicado.
 
-![CSfiltros · relatório do serviço no site](./relatorio-servi-o-csfiltros.svg)
+### Quem usa e para quê (UML)
+
+![Casos de uso · CSfiltros · relatório do serviço no site](./relatorio-servi-o-csfiltros-1-casos-de-uso.svg)
+
+### Do pedido ao relatório entregue (BPMN 2.0)
+
+![Processo · CSfiltros · relatório do serviço no site](./relatorio-servi-o-csfiltros-2-processo.svg)
+
+### Arquitetura (C4, containers)
+
+![Arquitetura · CSfiltros · relatório do serviço no site](./relatorio-servi-o-csfiltros-3-arquitetura.svg)
 
 Editável: [`relatorio-servi-o-csfiltros.excalidraw`](./relatorio-servi-o-csfiltros.excalidraw), abre em [excalidraw.com](https://excalidraw.com) ou no VS Code com a extensão Excalidraw.
 
