@@ -23,4 +23,4 @@ Um backup completo (arquivos e banco) foi feito antes de qualquer mudança e um 
 
 ## Licença
 
-Todos os direitos reservados.
+Todos os direitos reservados. Publicado como portfólio; não licenciado para reuso. Veja o arquivo [LICENSE](LICENSE).
