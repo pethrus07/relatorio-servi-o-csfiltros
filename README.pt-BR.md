@@ -1,10 +1,12 @@
-Português | [English](README.md)
+# WordPress maintenance report
 
-# Relatório de manutenção de WordPress
+[English](README.md) · Português
 
-> **Arquivado (2026-11).** Entrega pontual de maio de 2025. Não há código aqui, só o registro do serviço.
+## Status
 
-## O que foi
+Arquivado (2026-11). Entrega pontual de maio de 2025. Não há código aqui, só o registro do serviço.
+
+## O que faz
 
 Uma manutenção (03/05/2025) no site WordPress de uma pequena empresa. O trabalho teve três partes:
 

@@ -1,10 +1,12 @@
-[Português](README.pt-BR.md) | English
-
 # WordPress maintenance report
 
-> **Archived (2026-11).** One-off deliverable from May 2025. There is no code here, only the record of the service.
+English · [Português](README.pt-BR.md)
 
-## What it was
+## Status
+
+Archived (2026-11). One-off deliverable from May 2025. There is no code here, only the record of the service.
+
+## What it does
 
 A maintenance job (May 3, 2025) on the WordPress site of a small company. The work had three parts:
 
@@ -14,7 +16,7 @@ A maintenance job (May 3, 2025) on the WordPress site of a small company. The wo
 
 A full backup (files and database) was taken before any change and a final backup was handed to the client.
 
-## What I learned
+## What was learned
 
 - **Back up before touching anything.** It is what makes the rest of the job safe to do on a live site.
 - **Raising limits is not a fix.** Bigger `memory_limit` and `max_execution_time` hide slow plugins. Removing what was not used did more for speed than the new limits.
